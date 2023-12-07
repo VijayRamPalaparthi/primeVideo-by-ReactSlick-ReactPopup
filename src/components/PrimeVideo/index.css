@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.page-container {
+  width: 70vw;
+  height: 100vh;
+  background-color: black;
+}
+.prime-image {
+  width: 100%;
+}
+.movies-container {
+  margin: 20px;
+}
+.movies-heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
